@@ -1,1 +1,1 @@
-"# Quizzy" 
+## QuickTeller Challenge
